@@ -5,8 +5,10 @@ Working through Program Proofs book by K. Rustan M. Leino
 Visual Studio Code
 
 ## Environment Setup
-Download the Dafny extension from dafny-lang within VS Code 
+Download the Dafny extension from dafny-lang within VS Code.
 
 Verifier will run automatically on files ending in *.dfy
 
 If you want to run the tool from the commandline, see installation instructions from github.com/dafny-lang/dafny
+
+Download the Dafny Autopilot Visual Studio Code extension and follow the installation instructions on the download page.
